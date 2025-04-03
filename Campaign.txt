@@ -1,0 +1,170 @@
+act 1
+- Rush Hillock, kill.
+- Enter Clearfell.
+- Kill Witch (center), enter Grellwood.
+- Get WP for Grim Tangle (center), get flasks from Cauldron (center), enter Red Vale.
+- Activate 3 obelisks, kill Rust King, portal to town.
+- WP to Grim Tangle, enter Grellwood.
+- Release Hooded One, portal to town.
+- WP to Grim Tangle, kill Rotten Druid, travel to Cemetery of Eternals.
+- Enter Mausoleum, kill Draven, portal back to Cemetery.
+- Enter Tomb of the Consort, kill Asinia, portal back to town.
+- WP to Cemetery, kill Lachlann.
+- Enter Hunting Grounds, kill Crowbell, enter Freythorn.
+- Get WP, TP to Hunting Grounds, enter Ogham Farmlands.
+- Get Una's Lute, enter Ogham Village.
+- Get WP, WP back to town.
+- Give Lute to Una, WP to Freythorn.
+- Do rituals, kill King in the Mists, return to town.
+- Talk to Finn, WP to Ogham Village.
+- Kill Executioner, talk to Leitis, travel to Manor Ramparts.
+- Enter Ogham Manor.
+- Kill Candlemass, climb tower, kill Geonor, portal to town.
+- Talk to the Hooded One, follow Beast’s trail.
+act 2
+- Kill Rathbreaker, TP to town.
+- Enter the Caravan, WP to Ogham Village (Act 1).
+- Get smithing tools, TP to town.
+- WP to Caravan, travel to Halani Gates.
+- Find Asala, return to Caravan.
+- Travel to Mawdun Quarry.
+- Enter Mawdun Mine.
+- Kill Rudja, TP to Caravan.
+- Travel to Traitor's Passage.
+- Kill Balbala, travel to Halani Gates.
+- Kill Jamanra, travel to Sandstorm, TP to Caravan.
+- Travel to Keth, kill Kabala (Venom Pit), find Kabala Clan Relic, enter the Lost City.
+- Enter Buried Shrines, kill Azarian, get Essence of Water, TP to Caravan.
+- Travel to Valley of the Titans.
+- Activate ancient seals, activate WP, enter Titan Grotto.
+- Kill Zalmarath, TP to Caravan.
+- Travel to Trial of Sekhemas, complete, ascend, portal to start, TP to Caravan.
+- Travel to Mastodon Badlands.
+- Enter Bone Pits, kill Iktab & Ekbab (Blackrib Pit), find Sun Clan Relic, TP to Caravan.
+- Travel to Sandstorm, use the horn.
+- Travel to Deshar.
+- Get letter from fallen Dekhara, travel to Path of Mourning.
+- Get WP, WP to Caravan.
+- Give letter to Shambrin, WP to Path of Mourning.
+- Enter Spires of Deshar, activate Shrine of Sisters, kill Tor Gul (Defiled Spire), TP to Caravan.
+- Travel to Dreadnought.
+- XP farm at end (respawn at last checkpoint), enter Dreadnought Vanguard.
+- TP out before boss, WP to Valley of the Titans, add relics, return to Dreadnought Vanguard.
+- Kill Jamanra, TP to Caravan, enter Shrine of Garukhan, travel to Act 3.
+act 3
+- Travel through Sandswept Marsh to Ziggurat Encampment.
+- Enter Jungle Ruins.
+- Get WP, enter Venom Crypts.
+- Get Snake Venom (Den of the Serpent Priestess), TP to town.
+- Talk to Servi, WP to Jungle Ruins.
+- Kill Silverfist, enter Infested Barrens.
+- Get WP (center), enter Azak Bog.
+- Get WP, return to Infested Barrens.
+- Enter Chimeral Wetlands.
+- Kill Xyclucian, enter Jiquani's Machinarium.
+- Get WP, return to Chimeral Wetlands.
+- Enter Temple of Chaos, get WP, return to Jiquani's Machinarium.
+- Talk to Alva, get Soul Cores, kill Blackjaw, enter Jiquani’s Sanctum.
+- Get Soul Cores, activate generators, TP to town.
+- WP to Jiquani's Sanctum.
+- Kill Zicoatl, WP to Infested Barrens.
+- Summon Alva, enter the Matlan Waterways.
+- Pull canal lever, TP to town.
+- Talk to Alva, enter Drowned City.
+- Enter Apex of Filth.
+- Get WP, WP to Azak Bog.
+- Burn effigies (Flameskin Ritual), kill Ignaduk, TP to town.
+- WP to Temple of Chaos.
+- Complete trial, ascend, return to temple start, WP to Apex of Filth.
+- Kill Queen of Filth (Stenchpools), TP to town.
+- Talk to Alva, enter Temple of Kopec.
+- Kill Ketzuli, summon Alva, investigate platform.
+- Enter Utzaal.
+- Kill Viper Napuatzi, enter Aggorat.
+- Get Sacrificial Heart, get Sacrificial Dagger, use altar, enter Black Chambers.
+- Kill Doryani's Triumph (Testing Pit), travel to Cruel.
+act 4
+- Rush Hillock, kill.
+- Enter Clearfell.
+- Kill Witch (center), enter Grellwood.
+- Get WP for Grim Tangle (center), get flasks from Cauldron (center), enter Red Vale.
+- Activate 3 obelisks, kill Rust King, portal to town.
+- WP to Grim Tangle, enter Grellwood.
+- Release Hooded One, portal to town.
+- WP to Grim Tangle, kill Rotten Druid, travel to Cemetery of Eternals.
+- Enter Mausoleum, kill Draven, portal back to Cemetery.
+- Enter Tomb of the Consort, kill Asinia, portal back to town.
+- WP to Cemetery, kill Lachlann.
+- Enter Hunting Grounds, kill Crowbell, enter Freythorn.
+- Get WP, TP to Hunting Grounds, enter Ogham Farmlands.
+- Get Una's Lute, enter Ogham Village.
+- Get WP, WP back to town.
+- Give Lute to Una, WP to Freythorn.
+- Do rituals, kill King in the Mists, return to town.
+- Talk to Finn, WP to Ogham Village.
+- Kill Executioner, talk to Leitis, travel to Manor Ramparts.
+- Enter Ogham Manor.
+- Kill Candlemass, climb tower, kill Geonor, portal to town.
+- Talk to the Hooded One, follow Beast’s trail.
+act 5
+- Kill Rathbreaker, TP to town.
+- Enter the Caravan, WP to Ogham Village (Act 1).
+- Get smithing tools, TP to town.
+- WP to Caravan, travel to Halani Gates.
+- Find Asala, return to Caravan.
+- Travel to Mawdun Quarry.
+- Enter Mawdun Mine.
+- Kill Rudja, TP to Caravan.
+- Travel to Traitor's Passage.
+- Kill Balbala, travel to Halani Gates.
+- Kill Jamanra, travel to Sandstorm, TP to Caravan.
+- Travel to Keth, kill Kabala (Venom Pit), find Kabala Clan Relic, enter the Lost City.
+- Enter Buried Shrines, kill Azarian, get Essence of Water, TP to Caravan.
+- Travel to Valley of the Titans.
+- Activate ancient seals, activate WP, enter Titan Grotto.
+- Kill Zalmarath, TP to Caravan.
+- Travel to Trial of Sekhemas, complete, ascend, portal to start, TP to Caravan.
+- Travel to Mastodon Badlands.
+- Enter Bone Pits, kill Iktab & Ekbab (Blackrib Pit), find Sun Clan Relic, TP to Caravan.
+- Travel to Sandstorm, use the horn.
+- Travel to Deshar.
+- Get letter from fallen Dekhara, travel to Path of Mourning.
+- Get WP, WP to Caravan.
+- Give letter to Shambrin, WP to Path of Mourning.
+- Enter Spires of Deshar, activate Shrine of Sisters, kill Tor Gul (Defiled Spire), TP to Caravan.
+- Travel to Dreadnought.
+- XP farm at end (respawn at last checkpoint), enter Dreadnought Vanguard.
+- TP out before boss, WP to Valley of the Titans, add relics, return to Dreadnought Vanguard.
+- Kill Jamanra, TP to Caravan, enter Shrine of Garukhan, travel to Act 3.
+act 6
+- Travel through Sandswept Marsh to Ziggurat Encampment.
+- Enter Jungle Ruins.
+- Get WP, enter Venom Crypts.
+- Get Snake Venom (Den of the Serpent Priestess), TP to town.
+- Talk to Servi, WP to Jungle Ruins.
+- Kill Silverfist, enter Infested Barrens.
+- Get WP (center), enter Azak Bog.
+- Get WP, return to Infested Barrens.
+- Enter Chimeral Wetlands.
+- Kill Xyclucian, enter Jiquani's Machinarium.
+- Get WP, return to Chimeral Wetlands.
+- Enter Temple of Chaos, get WP, return to Jiquani's Machinarium.
+- Talk to Alva, get Soul Cores, kill Blackjaw, enter Jiquani’s Sanctum.
+- Get Soul Cores, activate generators, TP to town.
+- WP to Jiquani's Sanctum.
+- Kill Zicoatl, WP to Infested Barrens.
+- Summon Alva, enter the Matlan Waterways.
+- Pull canal lever, TP to town.
+- Talk to Alva, enter Drowned City.
+- Enter Apex of Filth.
+- Get WP, WP to Azak Bog.
+- Burn effigies (Flameskin Ritual), kill Ignaduk, TP to town.
+- WP to Temple of Chaos.
+- Complete trial, ascend, return to temple start, WP to Apex of Filth.
+- Kill Queen of Filth (Stenchpools), TP to town.
+- Talk to Alva, enter Temple of Kopec.
+- Kill Ketzuli, summon Alva, investigate platform.
+- Enter Utzaal.
+- Kill Viper Napuatzi, enter Aggorat.
+- Get Sacrificial Heart, get Sacrificial Dagger, use altar, enter Black Chambers.
+- Kill Doryani's Triumph (Testing Pit), travel to Cruel.
