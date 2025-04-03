@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <BaseOutputPath>C:\Users\Hakim\Documents\PoECampaignOverlayer</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="arrowLeft.png" />
+    <None Remove="arrowRight.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="arrowLeft.png" />
+    <Resource Include="arrowRight.png" />
+  </ItemGroup>
+
+</Project>
